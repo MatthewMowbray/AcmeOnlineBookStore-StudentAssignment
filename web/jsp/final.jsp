@@ -9,6 +9,9 @@
 
 <h2 align="center"><font color="#003333">ADMIT ONLINE BOOKSTORE</font></h2>
 <hr>
+      <div>
+             <jsp:include page="header.jsp" />
+      </div>
 <h3><font face="Georgia, Times New Roman, Times, serif">Thank you for shopping 
   with us.</font> </h3>
 <p>&nbsp;</p>
@@ -22,5 +25,8 @@
   </tr>
 </table>
 <p>&nbsp;</p>
+   <div>
+             <jsp:include page="footer.jsp" />
+   </div>
 </body>
 </html>

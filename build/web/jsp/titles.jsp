@@ -10,6 +10,7 @@
     <%@ page import="java.text.*"%>
     
     <body bgcolor="#FFFFFF" text="#000000">
+        
         <p>
         </p>
         <table width="38%" border="0" cellspacing="1" cellpadding="0" height="53" align="left">

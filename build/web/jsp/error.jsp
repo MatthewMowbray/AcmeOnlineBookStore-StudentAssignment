@@ -9,5 +9,9 @@
 <c:out value="${session.invalidate()}"/>
      
             <<h1>Error:<c:out value="${message}"/></h1>
+            
+               <div>
+             <jsp:include page="footer.jsp" />
+        </div>
 </body>
 </html>

@@ -18,6 +18,9 @@
 <h1 class = "bigFont" align="center"><font face="Georgia, Times New Roman, Times, serif">Shopping 
   Cart Check Out</font></h1>
 
+          <div>
+             <jsp:include page="header.jsp" />
+           </div>
    <form method = "post" action = "jsp/thankyou.jsp">
     <input type="hidden" name="action" value="validate_credit">
   <p style = "font-weight: bold">&nbsp; </p>
@@ -131,6 +134,9 @@
       <!-- enable user to submit the form  -->
       <p><input type = "submit" value = "Submit" /></p>
    </form>
+         <div>
+             <jsp:include page="footer.jsp" />
+        </div>
 </body>
 
 </html>

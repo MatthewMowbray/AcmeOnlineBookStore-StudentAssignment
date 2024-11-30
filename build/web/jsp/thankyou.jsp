@@ -13,5 +13,9 @@
 <hr>
 <h3 align="center">Your credit card details are being validated </h3>
 <c:out value="${session.invalidate()}"/>
+   <div>
+             <jsp:include page="footer.jsp" />
+   </div>
+
 </body>
 </html>

@@ -12,6 +12,9 @@
     <%@ page import="java.text.*"%>
 
     <body bgcolor="#FFFFFF" text="#000000">
+           <div>
+             <jsp:include page="header.jsp" />
+           </div>
         <h2 align="center"><b>The followings Items are in your shopping cart </b></h2>
         <form name="form1" method="post" action="./books">
             <input type="hidden" name="action" value="update_cart">
@@ -90,5 +93,8 @@
         </form>
         <p><a href="./books?action=continue">Continue Shopping</a></p>
         <p><a href="./books?action=checkout">Check Out</a></p>
+        <div>
+             <jsp:include page="footer.jsp" />
+        </div>
     </body>
 </html>

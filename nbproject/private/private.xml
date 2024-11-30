@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/TitlesDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/cart.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/ContinueDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/IDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/CheckoutDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/AddToCartDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/ejb/DatabasePersistanceBean.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/footer.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/checkout.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/model/CartItem.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/header.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/thankyou.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/final.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/HomeDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/ViewCartDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/titles.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/controller/FrontController.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/model/Book.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/web/jsp/error.jsp</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/UpdateCartDispatcher.java</file>
+            <file>file:/C:/Users/mmowb/Desktop/AcmeOnlineBookStore/src/java/dispatchers/NewClassCheckoutDispatcher.java</file>
+        </group>
+    </open-files>
+</project-private>
